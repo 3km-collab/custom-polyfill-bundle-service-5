@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/custom-polyfill-bundle-service-5/sitemap.xml
